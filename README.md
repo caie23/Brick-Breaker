@@ -1,7 +1,7 @@
 # Brick-Breaker
 A simple brick breaker game mimicking the ”Break Out” game in x86 assembly.
 
-run bricks.asm on DOSBox, with bricks.asm in /bin:
+run bricks.asm on DOSBox, with bricks.asm and UTIL_BR.OBJ in /bin:
 ```
 tasm bricks
 tlink bricks util_br
