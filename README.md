@@ -1,6 +1,20 @@
 # Brick-Breaker
 A simple brick breaker game mimicking the ”Break Out” game in x86 assembly.
 
+DOSBox setting - in temrinal:
+```
+cd  ~/Library/Preferences/
+cat DOSBox\ 0.74-3-3\ Preferences
+```
+```
+mount c: ~
+c:
+cd Downlo~1
+cd COMP308
+cd TASM
+cd BIN
+```
+
 run bricks.asm on DOSBox, with bricks.asm and UTIL_BR.OBJ in /bin:
 ```
 tasm bricks
