@@ -25,3 +25,6 @@ bricks
 Compile using the command: $ gcc coverart.c -lglut -lGL -o coverart.
 
 Execute ./coverart on open gpu.
+
+To see the game scene written with OpenGL, compile and run coverart.c on a Trottier computer:
+compile with command `g++ coverart.c -lglut -lGL -o coverart`, then run `./coverart`.
