@@ -28,3 +28,5 @@ Execute ./coverart on open gpu.
 
 To see the game scene written with OpenGL, compile and run coverart.c on a Trottier computer:
 compile with command `g++ coverart.c -lglut -lGL -o coverart`, then run `./coverart`.
+It looks like this:
+![Screenshot from 2023-01-19 18-00-42](https://user-images.githubusercontent.com/63815329/213936688-3899be2b-2cbd-4837-913a-568443b506e2.png)
